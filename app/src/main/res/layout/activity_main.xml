@@ -174,7 +174,6 @@
             android:layout_marginTop="16dp"
             android:contentDescription="@string/menu_pause"
             app:layout_constraintEnd_toStartOf="@+id/guideline4"
-            app:layout_constraintStart_toStartOf="@+id/guideline3"
             app:layout_constraintTop_toBottomOf="@+id/seekBar"
             app:srcCompat="@drawable/ic_pause_48dp" />
 
