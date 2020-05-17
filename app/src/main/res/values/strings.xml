@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Netflix_Interface_Montage</string>
+    <string name="menu_language">Language Menu</string>
+    <string name="menu_volume">Volume Menu</string>
+    <string name="menu_stars">Avaliations Menu</string>
+    <string name="menu_episodes">Episodes Menu</string>
+    <string name="menu_back">Back Menu</string>
+    <string name="menu_play">Play Menu</string>
+    <string name="menu_pause">Pause Menu</string>
 </resources>
